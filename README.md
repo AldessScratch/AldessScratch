@@ -1,2 +1,5 @@
-Hey, it's me Aldess :D, I'm a french teenager and I love coding. I'm currently learning React and Next.js.
-Working on Entract
+# About me
+
+Hello, I'm aldess, a french teenager with passion for technology and coding. I started learning web development to make a website to access restricted websites on the school tablet. Since then, I've learnt a lot and made a lot of websites. I'm now learning frameworks such as Next.js which this website is made with to create bigger projects.
+
+Portfolio: https://aldess.is-a.dev/
